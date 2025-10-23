@@ -27,3 +27,5 @@ day_of_the_week: Indicates whether the order is placed on a weekday or weekend (
 rating: Rating given by the customer out of 5
 food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
 delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
+
+[Code filed/Notebook](https://github.com/GunnyMarc/uta_aiml_projects/blob/main/Food%20Hub%20Data%20Analysis.ipynb)
