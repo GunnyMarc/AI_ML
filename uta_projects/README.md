@@ -29,7 +29,7 @@ rating: Rating given by the customer out of 5
 food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
 delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
 
-[Code/Notebook](https://github.com/GunnyMarc/uta_aiml_projects/blob/main/Food%20Hub%20Data%20Analysis.ipynb) | [Data file](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/data/foodhub_order.csv)
+[Code/Notebook](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/code/1-Food%20Hub%20Data%20Analysis.ipynb) | [Data file](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/data/foodhub_order.csv)
 
 ---
 
@@ -44,7 +44,7 @@ You as a Data scientist at AllLife bank have to build a model that will help the
 Objective
 To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
 
-[Code/Notebook](https://github.com/GunnyMarc/uta_aiml_projects/blob/main/Machine%20Learning%20notebook.ipynb) | [Data file](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/data/Loan_Modelling.csv)
+[Code/Notebook](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/code/2-Machine%20Learning%20notebook.ipynb) | [Data file](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/data/Loan_Modelling.csv)
 
 ---
 
