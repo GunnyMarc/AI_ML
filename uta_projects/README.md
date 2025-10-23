@@ -4,6 +4,8 @@
 
 1.  [Foodhub Data Analysis](#foodhub)
 2.  [Machine Learning - Loan Modeling](#machinelearning)
+3.  [Bank and Credit Churn](#bank-credit-churn)
+
 
 ---
 ## FoodHub Data Analysis
