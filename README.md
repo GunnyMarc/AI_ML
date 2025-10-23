@@ -42,4 +42,4 @@ You as a Data scientist at AllLife bank have to build a model that will help the
 Objective
 To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
 
-[Code/Notebook](https://github.com/GunnyMarc/uta_aiml_projects/blob/main/data/Loan_Modelling.csv)
+[Code/Notebook](https://github.com/GunnyMarc/uta_aiml_projects/blob/main/Machine%20Learning%20notebook.ipynb)
