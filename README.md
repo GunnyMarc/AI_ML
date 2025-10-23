@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1.  [Project 1 - Food Hub Data Analysis](#food-hub)
-2.  [Project 2 - Machine Learning/Loan Modeling](#machine-learning)
+1.  [Food Hub Data Analysis](#food-hub)
+2.  [Machine Learning - Loan Modeling](#machine-learning)
 
 ---
 ## FoodHub Data Analysis
