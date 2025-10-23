@@ -30,6 +30,7 @@ food_preparation_time: Time (in minutes) taken by the restaurant to prepare the 
 delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
 
 [Code/Notebook](https://github.com/GunnyMarc/uta_aiml_projects/blob/main/Food%20Hub%20Data%20Analysis.ipynb)
+[Data file](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/data/foodhub_order.csv)
 
 ---
 
@@ -45,6 +46,7 @@ Objective
 To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
 
 [Code/Notebook](https://github.com/GunnyMarc/uta_aiml_projects/blob/main/Machine%20Learning%20notebook.ipynb)
+[Data file](https://github.com/GunnyMarc/AI_ML/blob/main/uta_projects/data/Loan_Modelling.csv)
 
 ---
 
