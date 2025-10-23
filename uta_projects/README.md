@@ -5,6 +5,7 @@
 1.  [Foodhub Data Analysis](#foodhub)
 2.  [Machine Learning - Loan Modeling](#machinelearning)
 3.  [Bank and Credit Churn](#bank-credit-churn)
+4.  [Diabetes Case Study](#diabetes-case-Case_Study)
 
 
 ---
