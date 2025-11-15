@@ -26,7 +26,7 @@ factors behind the decision making.
 • Decision Trees (Regression Trees, Logistic Regression)
 • K-Means Clustering (Hierarchical Clustering, Dimensionality Reduction, PCA)
 
-## Adbanced Machine Learning
+## Advanced Machine Learning
 
 Combine the decisions from multiple models using ensemble techniques to
 improve model performance and make better predictions, and employ feature
