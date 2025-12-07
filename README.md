@@ -1,6 +1,10 @@
 # AI/ML Learning Repository
 
-## Python Foundations
+---
+
+## Repository Topics
+
+### Python Foundations
 
 Read, explore, manipulate, and visualize data to tell stories, solve business
 problems, and deliver actionable insights and business recommendations using
@@ -13,7 +17,7 @@ Structures, Conditional and Looping Statements, Functions)
 Analysis, Missing Value Treatment, Outlier Detection and Treatment)
 • AI Application Case Studies
 
-## Machine Learning
+### Machine Learning
 
 Understand the concept of learning from data, build linear and non-linear
 models to capture the relationships between attributes and a known outcome,
@@ -26,7 +30,7 @@ factors behind the decision making.
 • Decision Trees (Regression Trees, Logistic Regression)
 • K-Means Clustering (Hierarchical Clustering, Dimensionality Reduction, PCA)
 
-## Advanced Machine Learning
+### Advanced Machine Learning
 
 Combine the decisions from multiple models using ensemble techniques to
 improve model performance and make better predictions, and employ feature
@@ -36,11 +40,13 @@ robust models to optimize associated business costs.
 • Boosting (AdaBoost, Gradient Boosting, XGBoost, Stacking)
 • Model Tuning
 
+---
+
 ## Enablement
 
 Hands-on tutorials and beginner-friendly notebooks for GPU computing, deep learning frameworks, and local LLM deployment. Each subdirectory contains a comprehensive Jupyter notebook with a 100,000-record dataset for practical exercises.
 
-### Directory Structure
+### Enablement Directory Structure
 
 ```
 enablement/
@@ -58,7 +64,7 @@ enablement/
     └── ollama_sample_data.csv
 ```
 
-### Subdirectories
+### Enablement Subdirectory Topics
 
 #### cuda/
 GPU programming with NVIDIA CUDA for parallel computing.
@@ -92,11 +98,13 @@ Running large language models locally with Ollama.
 | `ollama_level_101.ipynb` | Complete Ollama tutorial: installation, API usage, Python integration, custom Modelfiles, building chatbots, Q&A systems, and embeddings for semantic search |
 | `ollama_sample_data.csv` | 100,000 records of text data with fields: topic, question_type, complexity, sentiment, question, context, word_count, and char_count for NLP exercises |
 
+---
+
 ## UTA Projects
 
 Applied machine learning projects from UT Austin's AI/ML program, featuring real-world business case studies with complete end-to-end workflows including EDA, model building, evaluation, and business recommendations.
 
-### Directory Structure
+### UTA Directory Structure
 
 ```
 uta_projects/
@@ -113,7 +121,7 @@ uta_projects/
     └── pima-indians-diabetes.csv
 ```
 
-### Project Notebooks
+### UTA Project Notebooks
 
 #### 1. FoodHub Data Analysis
 **File:** `1-Food Hub Data Analysis.ipynb`
@@ -169,7 +177,7 @@ Medical diagnosis case study predicting diabetes risk using the Pima Indians Dia
 | Features | Pregnancies, Glucose, Blood Pressure, BMI, Age, etc. |
 | Focus | Healthcare risk prediction, feature analysis |
 
-### Data Files
+### UTA Data Files
 
 | File | Records | Description |
 |------|---------|-------------|
@@ -177,3 +185,9 @@ Medical diagnosis case study predicting diabetes risk using the Pima Indians Dia
 | `Loan_Modelling.csv` | ~5,000 | Bank customer data with demographics, account info, and loan acceptance labels |
 | `BankChurners.csv` | ~10,000 | Credit card customer data with transaction history and churn status |
 | `pima-indians-diabetes.csv` | 768 | Medical diagnostic data for diabetes prediction |
+
+---
+
+## MIT Projects
+
+***Coming soon!***
