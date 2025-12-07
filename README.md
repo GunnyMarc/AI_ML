@@ -91,3 +91,89 @@ Running large language models locally with Ollama.
 |------|-------------|
 | `ollama_level_101.ipynb` | Complete Ollama tutorial: installation, API usage, Python integration, custom Modelfiles, building chatbots, Q&A systems, and embeddings for semantic search |
 | `ollama_sample_data.csv` | 100,000 records of text data with fields: topic, question_type, complexity, sentiment, question, context, word_count, and char_count for NLP exercises |
+
+## UTA Projects
+
+Applied machine learning projects from UT Austin's AI/ML program, featuring real-world business case studies with complete end-to-end workflows including EDA, model building, evaluation, and business recommendations.
+
+### Directory Structure
+
+```
+uta_projects/
+├── README.md
+├── code/
+│   ├── 1-Food Hub Data Analysis.ipynb
+│   ├── 2-Machine Learning notebook.ipynb
+│   ├── 3-Bank_and_Credit_Churn.ipynb
+│   └── 4-Case_Study_DiabetesRisk_Prediction.ipynb
+└── data/
+    ├── foodhub_order.csv
+    ├── Loan_Modelling.csv
+    ├── BankChurners.csv
+    └── pima-indians-diabetes.csv
+```
+
+### Project Notebooks
+
+#### 1. FoodHub Data Analysis
+**File:** `1-Food Hub Data Analysis.ipynb`
+**Dataset:** `foodhub_order.csv`
+
+Exploratory data analysis for a NYC-based food delivery aggregator service. Analyzes order patterns, delivery times, cuisine popularity, and customer behavior.
+
+| Aspect | Details |
+|--------|---------|
+| Problem Type | Exploratory Data Analysis |
+| Key Metrics | Delivery time, order cost, weekend vs weekday patterns |
+| Techniques | Univariate/bivariate analysis, visualization, statistical summaries |
+| Business Insights | Restaurant performance, cuisine demand, delivery optimization |
+
+#### 2. Personal Loan Campaign Modeling
+**File:** `2-Machine Learning notebook.ipynb`
+**Dataset:** `Loan_Modelling.csv`
+
+AllLife Bank campaign optimization for converting liability customers to personal loan customers. Uses Decision Tree classification with pruning techniques.
+
+| Aspect | Details |
+|--------|---------|
+| Problem Type | Binary Classification |
+| Algorithm | Decision Tree (CART) |
+| Key Features | Income, CCAvg, CD_Account, Education, Family |
+| Techniques | Pre-pruning, post-pruning (cost complexity), feature importance |
+| Performance | Optimized tree depth and complexity for generalization |
+
+#### 3. Credit Card Customer Churn Prediction
+**File:** `3-Bank_and_Credit_Churn.ipynb`
+**Dataset:** `BankChurners.csv`
+
+Thera Bank customer churn analysis to identify at-risk credit card customers and key drivers of attrition. Implements ensemble learning methods with class imbalance handling.
+
+| Aspect | Details |
+|--------|---------|
+| Problem Type | Binary Classification (Imbalanced) |
+| Algorithms | Random Forest, Gradient Boosting, XGBoost |
+| Class Balancing | SMOTE, RandomUnderSampler |
+| Best Model | Random Forest with RUS (93.75% accuracy, 94% recall) |
+| Key Features | Total_Trans_Ct, Total_Trans_Amt, Total_Ct_Chng_Q4_Q1 |
+
+#### 4. Diabetes Risk Prediction
+**File:** `4-Case_Study_DiabetesRisk_Prediction.ipynb`
+**Dataset:** `pima-indians-diabetes.csv`
+
+Medical diagnosis case study predicting diabetes risk using the Pima Indians Diabetes dataset. Focuses on healthcare analytics and risk factor identification.
+
+| Aspect | Details |
+|--------|---------|
+| Problem Type | Binary Classification (Medical) |
+| Dataset | Pima Indians Diabetes Database |
+| Features | Pregnancies, Glucose, Blood Pressure, BMI, Age, etc. |
+| Focus | Healthcare risk prediction, feature analysis |
+
+### Data Files
+
+| File | Records | Description |
+|------|---------|-------------|
+| `foodhub_order.csv` | ~1,900 | Food delivery orders with restaurant, cuisine, cost, and delivery time data |
+| `Loan_Modelling.csv` | ~5,000 | Bank customer data with demographics, account info, and loan acceptance labels |
+| `BankChurners.csv` | ~10,000 | Credit card customer data with transaction history and churn status |
+| `pima-indians-diabetes.csv` | 768 | Medical diagnostic data for diabetes prediction |
